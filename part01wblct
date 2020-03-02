@@ -685,173 +685,170 @@
         "id":32,
         "txvid":"m0016bf77ga",
         "desc":"《啊朋友再见》"
-      }
-    ],
-
-    "videoList21":[
+      },
       {
-        "id":0,
+        "id":33,
         "txvid":"o0016vtggy8",
         "desc":"《纺织姑娘》"
       },
       {
-        "id":1,
+        "id":34,
         "txvid":"y0016ww5nqx",
         "desc":"《最真的梦》"
       },
       {
-        "id":2,
+        "id":35,
         "txvid":"t0016e8vgk8",
         "desc":"《鸿雁》"
       },
       {
-        "id":3,
+        "id":36,
         "txvid":"w0019fce02j",
         "desc":"《夜空中最亮的星》"
       },
       {
-        "id":4,
+        "id":37,
         "txvid":"b0019fum87g",
         "desc":"《天亮了》"
       },
       {
-        "id":5,
+        "id":38,
         "txvid":"o0019w93tzk",
         "desc":"《贝加尔湖畔》"
       },
       {
-        "id":6,
+        "id":39,
         "txvid":"h0019xasgjn",
         "desc":"《不要怕》"
       },
       {
-        "id":7,
+        "id":40,
         "txvid":"m0019xzyni0",
         "desc":"《我的太阳》  意大利名歌"
       },
       {
-        "id":8,
+        "id":41,
         "txvid":"r00192vwdt9",
         "desc":"《珠穆朗玛》"
       },
       {
-        "id":9,
+        "id":42,
         "txvid":"v0019wgij11",
         "desc":"《龙的传人》"
       },
       {
-        "id":10,
+        "id":43,
         "txvid":"q00195l8jmd",
         "desc":"《唱支山歌给党听》"
       },
       {
-        "id":11,
+        "id":44,
         "txvid":"y00198qq65b",
         "desc":"《父亲》"
       },
       {
-        "id":12,
+        "id":45,
         "txvid":"k0019zzhaud",
         "desc":"《当你老了》"
       },
       {
-        "id":13,
+        "id":46,
         "txvid":"m0019st1gxr",
         "desc":"《好运来》"
       },
       {
-        "id":14,
+        "id":47,
         "txvid":"v00194tyee5",
         "desc":"《外面的世界》"
       },
       {
-        "id":15,
+        "id":48,
         "txvid":"z0019ibxu6g",
         "desc":"《九九艳阳天》"
       },
       {
-        "id":16,
+        "id":49,
         "txvid":"h0023fg4vu7",
         "desc":"《像梦一样自由》"
       },
       {
-        "id":17,
+        "id":50,
         "txvid":"j0023c2x7xv",
         "desc":"《走进西藏》  藏语版"
       },
        {
-        "id":18,
+        "id":51,
         "txvid":"k0023mqvqqn",
         "desc":"《粉墨人生》"
       },
       {
-        "id":19,
+        "id":52,
         "txvid":"d0023szgnea",
         "desc":"《我是一个兵》"
       },
       {
-        "id":20,
+        "id":53,
         "txvid":"q0023egczf0",
         "desc":"《红旗飘飘》"
       },
       {
-        "id":21,
+        "id":54,
         "txvid":"g00232rm0gd",
         "desc":"《长城谣》"
       },
       {
-        "id":22,
+        "id":55,
         "txvid":"e0023yqc0mh",
         "desc":"《绿叶对根的情意》"
       },
       {
-        "id":23,
+        "id":56,
         "txvid":"b0023c28e2w",
         "desc":"《军港之夜》"
       },
       {
-        "id":24,
+        "id":57,
         "txvid":"p0023gwj29u",
         "desc":"《在水一方》"
       },
       {
-        "id":25,
+        "id":58,
         "txvid":"m0023v75h98",
         "desc":"《甜蜜蜜》"
       },
       {
-        "id":26,
+        "id":59,
         "txvid":"t0024mnhnck",
         "desc":"《万里长城永不倒》"
       },
       {
-        "id":27,
+        "id":60,
         "txvid":"d0024pkyni4",
         "desc":"《木兰情》"
       },
       {
-        "id":28,
+        "id":61,
         "txvid":"o0024kfif1g",
         "desc":"《我不想说》"
       },
       {
-        "id":29,
+        "id":62,
         "txvid":"o00248sna9t",
         "desc":"《My Heart Will Go On》"
       },
       {
-        "id":30,
+        "id":63,
         "txvid":"x0024y83vvt",
         "desc":"《打靶归来》"
       },
       {
-        "id":31,
+        "id":64,
         "txvid":"r0024zswzul",
         "desc":"《中国功夫》"
       }   
     ],
     
-    "videoList22":[
+    "videoList21":[
       {
         "id":0,
         "txvid":"p0028e83lah",
@@ -1077,6 +1074,231 @@
         "txvid":"q0020xw66ic",
         "desc":"《生如夏花》"
       }   
+    ],
+    
+    
+     "videoList22":[
+      {
+        "id":0,
+        "txvid":"c0033n0zmc5",
+        "desc":"《浪子回头》"
+      },
+      {
+        "id":1,
+        "txvid":"g0033a5xqll",
+        "desc":"《Faded》"
+      },
+      {
+        "id":2,
+        "txvid":"y0032ix32ue",
+        "desc":"《晚秋》"
+      },
+      {
+        "id":3,
+        "txvid":"g003243p6ij",
+        "desc":"《停格》"
+      },
+      {
+        "id":4,
+        "txvid":"i0305mq9k9o",
+        "desc":"《回顾邓丽君》"
+      },
+      {
+        "id":5,
+        "txvid":"y0318x655cf",
+        "desc":"《夕阳之歌》"
+      },
+      {
+        "id":6,
+        "txvid":"o00139pbed3",
+        "desc":"《每当变幻时》"
+      },
+      {
+        "id":7,
+        "txvid":"h0011l0836z",
+        "desc":"《让一切随风》"
+      },
+      {
+        "id":8,
+        "txvid":"k00187roqom",
+        "desc":"《风继续吹》"
+      },
+      {
+        "id":9,
+        "txvid":"x0011osjepj",
+        "desc":"《夏日寒风》"
+      },
+      {
+        "id":10,
+        "txvid":"z0011dur92n",
+        "desc":"《偏偏喜欢你》"
+      },
+      {
+        "id":11,
+        "txvid":"w0011v5ngr2",
+        "desc":"《分分钟需要你》"
+      },
+      {
+        "id":12,
+        "txvid":"u0010TNv4U6",
+        "desc":"《海阔天空》"
+      },
+      {
+        "id":13,
+        "txvid":"N00106KwDXc",
+        "desc":"《只愿一生爱一人》"
+      },
+      {
+        "id":14,
+        "txvid":"y00113h58cb",
+        "desc":"《一起走过的日子》"
+      },
+      {
+        "id":15,
+        "txvid":"o0011uhbdbb",
+        "desc":"《狂野之城》"
+      },
+      {
+        "id":16,
+        "txvid":"k0012md5982",
+        "desc":"《富士山下》"
+      },
+      {
+        "id":17,
+        "txvid":"C0090MjNTWH",
+        "desc":"《那谁》"
+      },
+       {
+        "id":18,
+        "txvid":"q00120fs9oy",
+        "desc":"《劲歌金曲》"
+      },
+      {
+        "id":19,
+        "txvid":"c0090MLhUrZ",
+        "desc":"《当年情》"
+      },
+      {
+        "id":20,
+        "txvid":"s0013r2z0gv",
+        "desc":"《万水千山总是情》"
+      },
+      {
+        "id":21,
+        "txvid":"k0529mrm4j9",
+        "desc":"《十七岁》   刘德华"
+      },
+      {
+        "id":22,
+        "txvid":"u034603m4kw",
+        "desc":"《冷雨夜》"
+      },
+      {
+        "id":23,
+        "txvid":"x0721z5i5o0",
+        "desc":"《岁月无声》"
+      },
+      {
+        "id":24,
+        "txvid":"j0733j2ev6p",
+        "desc":"《红日》"
+      },
+      {
+        "id":25,
+        "txvid":"o0745qp3jrk",
+        "desc":"《当年情》"
+      },
+      {
+        "id":26,
+        "txvid":"b06831df6a0",
+        "desc":"《难得有情人》"
+      },
+      {
+        "id":27,
+        "txvid":"o0855bnak2t",
+        "desc":"《堆积情感》"
+      },
+      {
+        "id":28,
+        "txvid":"n0746fs0vzw",
+        "desc":"《一生何求》"
+      },
+      {
+        "id":29,
+        "txvid":"w0769w88wep",
+        "desc":"《上海滩》"
+      },
+      {
+        "id":30,
+        "txvid":"a0359eaeehx",
+        "desc":"《讲不出再见》"
+      },
+      {
+        "id":31,
+        "txvid":"z0384jlvob5",
+        "desc":"《世间始终你好》"
+      },
+      {
+        "id":32,
+        "txvid":"u0739poorw0",
+        "desc":"《卡拉永远OK》"
+      },
+      {
+        "id":33,
+        "txvid":"l0351f2w87l",
+        "desc":"《千千阙歌》"
+      },
+      {
+        "id":34,
+        "txvid":"n0347czc50c",
+        "desc":"《光辉岁月》"
+      },
+      {
+        "id":35,
+        "txvid":"r0359ruu4cs",
+        "desc":"《浮夸》"
+      },
+      {
+        "id":36,
+        "txvid":"j0722vec3jc",
+        "desc":"《爱在记忆中找你》"
+      },
+      {
+        "id":37,
+        "txvid":"r0032b8qakv",
+        "desc":"《傻女》"
+      },
+      {
+        "id":38,
+        "txvid":"t0349mhbuml",
+        "desc":"《谢谢你的爱》"
+      },
+      {
+        "id":39,
+        "txvid":"q0745przzv7",
+        "desc":"《沉默是金》"
+      },
+      {
+        "id":40,
+        "txvid":"p0350s7psn8",
+        "desc":"《片片枫叶情》"
+      },
+      {
+        "id":41,
+        "txvid":"s03563m28a2",
+        "desc":"《爱情一阵风》"
+      },
+      {
+        "id":42,
+        "txvid":"z03556tplx3",
+        "desc":"《酒干倘卖无》"
+      },
+      {
+        "id":43,
+        "txvid":"y0356ltbnbi",
+        "desc":"《浪子的心情》"
+      }
+     
     ],
     
     
